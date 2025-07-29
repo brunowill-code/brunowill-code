@@ -61,9 +61,8 @@
 <h3 align="left">🔥 My Stats :</h3>
 
 <div align="center">
-  <!-- Gráfico de estatísticas gerais -->
-  <img src="https://github-readme-stats.vercel.app/api?username=brunowill-code&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats" />
-
-  <!-- Gráfico de linguagens mais usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunowill-code&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
-</div>
+  <p align="left">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brunowill-code&theme=github_dark">
+  <img width="59%" src="https://github-readme-stats.vercel.app/api?username=brunowill-code&theme=github_dark&show_icons=true">
+  <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunowill-code&layout=compact&langs_count=8&hide=HCL&theme=github_dark">
+</p>
