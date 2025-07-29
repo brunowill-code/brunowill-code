@@ -59,16 +59,7 @@
 
 <h3 align="left">🔥 My Stats :</h3>
 
-###
-
-<h3 align="left">🔥 My Stats :</h3>
-
-###
-
 <div align="center">
-  <!-- Gráfico de streaks -->
-  <img src="https://streak-stats.demolab.com?user=brunowill-code&theme=dark&hide_border=false" alt="GitHub Streak" />
-
   <!-- Gráfico de estatísticas gerais -->
   <img src="https://github-readme-stats.vercel.app/api?username=brunowill-code&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats" />
 
