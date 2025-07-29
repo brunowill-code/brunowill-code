@@ -27,10 +27,11 @@
 ###
 
 <p align="left">
-  I'm Bruno William from Brazil<br><br>
-  - 🔭 I’m working as a FullStack Developer<br>
-  - 📚 I'm currently learning Nest.js<br>
-  - ⚡ In my free time I study, build side projects and explore new tech
+  I'm Bruno William, a Biomedical Engineering graduate from Brazil with a strong passion for building systems and solving real-world problems through code.<br><br>
+  - 🔭 Currently working as a FullStack Developer<br>
+  - 📚 Studying advanced backend development with Nest.js<br>
+  - 🧠 Passionate about clean architecture, scalability, and performance<br>
+  - ⚡ In my free time, I study, build side projects, and explore new technologies
 </p>
 
 ###
