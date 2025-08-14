@@ -27,8 +27,8 @@
 ###
 
 <p align="left">
-  I'm Bruno William, a Biomedical Engineering graduate from Brazil with a strong passion for building systems and solving real-world problems through code.<br><br>
-  I code in every language. Sometimes I just need to read the docs first. <br>
+  I'm Bruno William, a Biomedical Engineering graduate from Brazil with a strong passion for building systems and solving real-world problems through code.<br>
+  I code in every language. Sometimes I just need to read the docs first. <br><br>
   - 🔭 Currently working as a FullStack Developer<br>
   - 📚 Studying advanced backend development with Nest.js<br>
   - 🧠 Passionate about clean architecture, scalability, and performance<br>
