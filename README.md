@@ -63,6 +63,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img src="https://devicon-website.vercel.app/api/mongodb/original.svg" height="40" alt="mongodb logo"></img>
   <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/postgresql/original.svg" height="40" alt="postdresql logo">
+  <img width="12" />
 </div>
 
 ###
