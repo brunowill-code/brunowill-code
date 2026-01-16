@@ -44,6 +44,8 @@
 <div align="left">
   <img src="https://devicon-website.vercel.app/api/java/original.svg" height="40" alt="java logo" />
   <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/spring/original.svg" height="40" alt="spring logo"></img>
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
