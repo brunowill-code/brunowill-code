@@ -21,7 +21,7 @@
 <p align="left">
   I'm Bruno William, a Biomedical Engineering graduate from Brazil with a strong passion for building systems and solving real-world problems through code.<br>
   My goal is to drive business value by delivering scalable, maintainable, and high-quality software. <br><br>
-  - 🔭 Currently working as a FullStack Developer<br>
+  - 🔍 Currently seeking opportunities as a Backend Developer  
   - 📚 Strong expertise in Java and the Spring ecosystem.<br>
   - 🧠 Passionate about clean architecture, scalability, and performance<br>
   - ⚡ In my free time, I study, build side projects, and explore new technologies
