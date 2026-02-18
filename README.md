@@ -19,7 +19,7 @@
 ###
 
 <p align="left">
-  I'm Bruno William, a Biomedical Engineering graduate from Brazil with a strong passion for building systems and solving real-world problems through code.<br>
+  I'm Bruno William, a Biomedical Engineer graduate from Brazil with a strong passion for building systems and solving real-world problems through code.<br>
   My goal is to drive business value by delivering scalable, maintainable, and high-quality software. <br><br>
   - 🔍 Currently seeking opportunities as a Backend Developer.<br>
   - 📚 Strong expertise in Java and the Spring ecosystem.<br>
